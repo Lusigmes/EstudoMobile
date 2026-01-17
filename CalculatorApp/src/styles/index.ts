@@ -20,30 +20,6 @@ export const stylesDisplay = StyleSheet.create({
   },
 });
 
-export const stylesButton = StyleSheet.create({
-  btnDouble: {
-    flex: 2,
-    alignItems: 'flex-start',
-    paddingLeft: 30,
-  },
-  btnOperacao: {
-    backgroundColor: '#ff9500',
-  },
-  btnEspecial: {
-    backgroundColor: '#a6a6a6',
-  },
-  texto: {
-    color: 'white',
-    fontSize: 28,
-  },
-  textoOperacao: {
-    color: 'white',
-  },
-  textoEspecial: {
-    color: 'black',
-  },
-});
-
 export const stylesButtonRow = StyleSheet.create({
   row: {
     flexDirection: 'row',
